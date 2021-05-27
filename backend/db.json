@@ -19,6 +19,21 @@
       "id": 4,
       "nome": "Xbox One",
       "preço": 1800.9
+    },
+    {
+      "name": "Veio do CreateProduct",
+      "price": 1334.72,
+      "id": 5
+    },
+    {
+      "name": "admin",
+      "price": null,
+      "id": 6
+    },
+    {
+      "name": "Carro de Mão",
+      "price": "15677",
+      "id": 7
     }
   ]
 }

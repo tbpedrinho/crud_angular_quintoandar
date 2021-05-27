@@ -4,7 +4,7 @@
   "description": "Crud Angular Turma Quinto Andar",
   "main": "index.js",
   "scripts": {
-    "start" : "json-server --watch db.json --port 3001"
+    "start": "json-server --watch db.json --port 3001"
   },
   "keywords": [],
   "author": "Eu mesmo",
